@@ -1,5 +1,4 @@
 ##All In One -- A K-Relay Plugin
-Deca can fix these anytime, so don't expect them to work.
 
 
 ### Features
@@ -13,3 +12,5 @@ Some may be fixed/need more work.
 - /invisible `player.name`  - for invisible rank
 
 #####Probably more coming in the future.
+
+###Deca can fix these anytime, so don't expect them to work.
