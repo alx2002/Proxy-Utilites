@@ -1,4 +1,4 @@
-####All In One -- A K-Relay Plugin
+# All In One -- A K-Relay Plugin
 
 
 ### Features
@@ -11,6 +11,6 @@ Some may be fixed/need more work.
 - /relay ``ip``
 - /invisible `player.name`  - for invisible rank
 
-#####Probably more coming in the future.
+##### Probably more coming in the future.
 
-##Deca can fix these anytime, so don't expect them to work.
+## Deca can fix these anytime, so don't expect them to work.
