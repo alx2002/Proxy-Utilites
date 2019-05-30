@@ -1,5 +1,5 @@
 ##All In One -- A K-Relay Plugin
-
+Deca can fix these anytime, so don't expect them to work.
 
 
 ### Features
